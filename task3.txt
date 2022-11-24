@@ -1,0 +1,9 @@
+window:
+1.A global variable, window , representing the window in which the script is running, is exposed to JavaScript code.
+2.window is the execution context and global object for that context's JavaScript.
+document:
+1.document contains the DOM, initialized by parsing HTML.
+2. Document is the function(a DOM interface precisely), which will be used to create the document object.
+screen:
+1.The JavaScript screen object holds information of browser screen. 
+2.It can be used to display screen width, height, colorDepth, pixelDepth etc.
